@@ -47,4 +47,4 @@ aria2c --continue --console-log-level=error -c -x 16 -s 16 -k 1M https://hugging
 aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/datasets/ngocuong/Faceswap/resolve/main/models/inswapper_128.onnx -d /content/SD-CSDM/extensions/ghepmat2/models -o inswapper_128.onnx
 aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/datasets/ngocuong/Loopbackwave/resolve/0f4e0392f054c00886ff9f571e5ccb94f886ba1f/loopbackwave.py -d /content/SD-CSDM/scripts/lookbackwave.py
 aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/datasets/tuanvietarc/video/raw/main/multi_frame_render.py -d /content/SD-CSDM/scripts/ -o multi_frame_render.py
-aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/datasets/tuanvietarc/video/raw/main/shared.py -d /content/SD-CSDM/modules/ -o shared.py
+aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/datasets/tuanvietarc/video/raw/main/shared.py -d /content/SD-CSDM/modules/ -o shared.py -O
