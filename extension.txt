@@ -15,4 +15,3 @@ git clone https://github.com/fkunn1326/openpose-editor /content/SD-CSDM/extensio
 git clone https://github.com/nonnonstop/sd-webui-3d-open-pose-editor /content/SD-CSDM/extensions/sd-webui-3d-open-pose-editor
 git clone https://github.com/DominikDoom/a1111-sd-webui-tagcomplete /content/SD-CSDM/extensions/a1111-sd-webui-tagcomplete
 git clone https://github.com/Uminosachi/sd-webui-inpaint-anything /content/SD-CSDM/extensions/sd-webui-inpaint-anything
-git clone https://github.com/s0md3v/sd-webui-roop /content/SD-CSDM/extensions/sd-webui-roop
