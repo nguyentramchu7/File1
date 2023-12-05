@@ -3,7 +3,7 @@ git clone https://huggingface.co/embed/negative /content/SD-CSDM/embeddings/nega
 git clone https://huggingface.co/embed/lora /content/SD-CSDM/models/Lora/positive
 aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/embed/upscale/resolve/main/4x-UltraSharp.pth -d /content/SD-CSDM/models/ESRGAN -o 4x-UltraSharp.pth
 git clone https://github.com/camenduru/sd-civitai-browser /content/SD-CSDM/extensions/sd-civitai-browser
-git clone https://github.com/lllyasviel/ControlNet /content/SD-CSDM/extensions/sd-webui-controlnet
+git clone https://github.com/lllyasviel/ControlNet.git /content/SD-CSDM/extensions/sd-webui-controlnet
 git clone https://github.com/deforum-art/deforum-for-automatic1111-webui /content/SD-CSDM/extensions/deforum-for-automatic1111-webui
 git clone https://github.com/camenduru/tunnels /content/SD-CSDM/extensions/tunnels
 git clone https://github.com/ngovinhcuong/ghepmat2 /content/SD-CSDM/extensions/ghepmat2
